@@ -1,0 +1,32 @@
+#+title: Tugas PPA
+#+author: Bayu Prima Setiawan
+#+description: Daftar Todo untuk 22 September - 30 September 2022
+
+* Kamis, 22 September 2022
+** DONE Kuliah - PBO: Tugas Array
+CLOSED: [2022-09-23 Fri 14:28] DEADLINE: <2022-09-26 Mon>
+Kerjakan praktikum array dan buat laporan resmi.
+
+* Jumat, 23 September 2022
+** DONE [2/2] Magang - MBA: Jobs & JobsDetail
+CLOSED: [2022-09-23 Fri 14:28] DEADLINE: <2022-09-27 Tue>
+- [X] Buat tabel ke style yang baru
+- [X] Buat tampilan untuk JobsDetail(dengan ui yang baru)
+
+* Sabtu, 24 September 2022
+** Extra - Training: Shandong University
+Pelatihan bahasa Mandarin dengan Shandong University
+
+* Senin, 26 September 2022
+** [2/2] Magang - MBA: Login & ProfileBio
+- [X] Membuat ui baru untuk modul Login
+- [X] Inisialisasi modul ProfileBio
+
+* Selasa, 27 September 2022
+** Magang - MBA: ProfileContact
+Membuat ui baru untuk modul ProfileContact
+
+* Rabu, 28 September 2022
+** [2/2] Magang - MBA: ProfileResume & ProfileEducation
+- [X] Inisialisasi module ProfileResume
+- [X] Inisialisasi module ProfileEducation
